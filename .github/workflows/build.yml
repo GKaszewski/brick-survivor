@@ -28,4 +28,3 @@ jobs:
       with:
         branch: gh-pages
         folder: dist
-        commit_message: Deployed to GitHub Pages
