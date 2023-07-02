@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/excaliburjs/template-ts-vite/issues"
   },
-  "homepage": "https://github.com/excaliburjs/template-ts-vite#readme",
+  "homepage": "https://gkaszewski.github.io/brick-survior/",
   "devDependencies": {
     "excalibur": "0.27.0",
     "typescript": "5.1.6",
